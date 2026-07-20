@@ -518,9 +518,7 @@
     toformat "^2.0.0"
 
 "@uniswap/token-list-bridge-utils@^2.0.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@uniswap/token-list-bridge-utils/-/token-list-bridge-utils-2.2.0.tgz#7f84ac8748aad5b92c183b4468a2bab61b3d543c"
-  integrity sha512-PLvU7wTFzFEPoIMTdF5qBQ5VFH+Qex9/7ZyHxYLyi4/ROZEjo5c6BcFxhz4x6xMLOaJky5mxxBRPK+nFGjtTEg==
+  version "2.12.0"
   dependencies:
     "@arbitrum/sdk" "^3.1.6"
     "@uniswap/sdk-core" "^4.0.6"
