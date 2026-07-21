@@ -30,7 +30,7 @@
   "homepage": "https://github.com/Berachain/default-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
-    "@uniswap/token-list-bridge-utils": "^2.0.0",
+    "@uniswap/token-list-bridge-utils": "^3.0.0",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
